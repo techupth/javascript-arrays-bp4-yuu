@@ -9,6 +9,18 @@ const employees = [
     age: 25,
     hobbies: ["Cryptocurrency", "Social media"],
   },
+  {
+    name: `Alicia`,
+    age: 29,
+    hobbies: [`Shopping`,`Reading novels`]
+  },
+  {
+    name: `Kody`,
+    age: 19,
+    hobbies: [`Computer ganmes`,`Wakeboard`]
+  }
 ];
 
 // Start coding here
+
+console.log(employees)
